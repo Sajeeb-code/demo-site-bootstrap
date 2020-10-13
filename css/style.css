@@ -1,0 +1,161 @@
+#imagelogo{
+    margin-left: 50px;
+}
+#jumbotron{
+    min-height: 800px;
+    margin-bottom: 40px;
+}
+#reliable{
+    color: whitesmoke;
+    margin-top: 90px;
+}
+#knowMore{
+    background-color: white;
+    color: black;
+}
+#knowMore:hover{
+    background-color: red;
+}
+#formOne{
+    background-color: #eceff4;
+    margin-left: 80px;
+    height: 590px;
+}
+.form-group{
+    padding: 10px;
+    width: 350px;
+    height: 60px;
+ 
+    
+}
+#requestButton{
+    
+    color: blue;
+    
+}
+#requestButton:hover{
+    background-color: #869c98;
+    color: whitesmoke;
+}
+/* #dedication{
+    text-align: center;
+    padding: 50px;
+    margin: 20px;
+} */
+.div1{
+   
+    margin-top: 150px;
+    margin-left: 200px;
+    margin-right: 120px;
+    
+}
+#div2 {
+
+    margin-top: 70px;
+    margin-left: 200px;
+    margin-right: 80px;
+    display: flex;
+    margin-bottom: 0px;
+
+}
+#secondButton:hover{
+    background-color: #8A795D;
+}
+#cardOne{
+    min-height: 400px;
+
+    margin-bottom: 0px;
+}
+.card{
+    color: whitesmoke;
+    margin-top: 20px;
+}
+.innerdiv{
+    margin-top: 50px;
+    /* margin-left: 70px; */
+    text-align: center;
+}
+.div3image{
+    background-color: #f8f9fa;
+    margin-bottom: 40px;
+    
+}
+#firstBlockDiv{
+    margin-top: 70px;
+    display: flex;
+    margin-bottom: 40px;
+    margin-left: 30px;
+    
+
+}
+#secondBlockDiv{
+    display: flex;
+    margin-left: 30px;
+}
+#innerimage{
+    display: inline-block;
+    margin-left: auto;
+    margin-right: auto;
+    
+}
+.seconfCardDiv{
+    margin-top: 20px;
+   text-align: center;
+}
+#secondCardImage{
+    margin-top: 30px;
+    max-width: 50px;
+    max-height: 100px;
+    margin-left: auto;
+    margin-right: auto;
+}
+#chooseId{
+    margin-top: 90px;
+}
+#thirdDiv{
+    /* background-color: #228be6; */
+    margin-top: 40px;
+    width: 100%;
+    height: 600px;
+    display: flex;
+    /* background-size: cover; */
+}
+
+.adjust2div{
+    display: flex;
+}
+#secondJumbo{
+    margin-top: 50px;
+}
+#formscond{
+    margin-top: 90px;
+    margin-bottom: 20px;
+    
+}
+.reachDiv{
+    margin-top: 110px;
+    color: white;
+    margin-left: 40px;
+}
+
+#mapdiv{
+    margin-top: 100px;
+}
+
+#footer {
+
+    margin-top: 20px;
+    /* width: 100%; */
+    height: 100px;
+    background-color: #4c566a;
+    display: flex;
+    margin-bottom: 20px;
+    color: white;
+
+}
+
+#block2 {
+
+    text-align: right;
+ 
+}
